@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: "I'm Arif Rasim a web developer.",
   paragraphTwo: 'I love programming and dedicating myself to my job.',
   paragraphThree: "I love learning new skills on daily basis and using them to find better solutions.",
-  resume: 'https://drive.google.com/file/d/1w0HNUMtb5TODvKmM1JoXiYIaY68-8VyL/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1PCMwZN6vkbdo82GRO6j3-Yo9CLNk0zYj/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
