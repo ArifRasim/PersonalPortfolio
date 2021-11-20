@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   
-  paragraphOne: "I'm Arif Rasim a web developer.",
-  paragraphTwo: 'I love programming and dedicating myself to my job.',
-  paragraphThree: "I love learning new skills on daily basis and using them to find better solutions.",
+  paragraphOne: "I'm Arif Rasim a software developer.",
+  paragraphTwo: 'I love programming and improving myself.',
+  paragraphThree: "Down below you can find some of my personal projects.",
   resume: 'https://drive.google.com/file/d/11hKVczaf-trAAyM87redOKaic1hHGZqd/view?usp=sharing', // if no resume, the button will not show up
 };
 
